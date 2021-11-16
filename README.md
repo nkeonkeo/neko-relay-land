@@ -4,10 +4,10 @@
 
 ## 安装后端
 
-下载: (其他OS请自行替换下载连接: https://github.com/nkeonkeo/neko-relay-land/releases/tag/v1.0)
+下载: (其他OS请自行替换下载连接: https://github.com/nkeonkeo/neko-relay-land/releases/latest)
 
 ```bash
-wget https://github.com/nkeonkeo/neko-relay-land/releases/download/v1.0/neko-relay_linux_amd64 -O /usr/bin/neko-relay
+wget https://github.com/nkeonkeo/neko-relay-land/releases/latest/download/neko-relay_darwin_amd64 -O /usr/bin/neko-relay
 chmod +x /usr/bin/neko-relay
 ```
 
@@ -30,6 +30,8 @@ chmod +x /usr/bin/neko-relay
    ```
    
    1. 选择类型:
+
+      MIX隧道加密端(TCP+UDP) 对应 面板 `mix_tunnel_client_tcp+udp` 类型
       
       WS隧道加密端(TCP+UDP) 对应 面板 `ws_tunnel_client_tcp+udp` 类型
 
