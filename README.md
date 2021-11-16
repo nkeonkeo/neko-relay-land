@@ -7,7 +7,7 @@
 下载: (其他OS请自行替换下载连接: https://github.com/nkeonkeo/neko-relay-land/releases/latest)
 
 ```bash
-wget https://github.com/nkeonkeo/neko-relay-land/releases/latest/download/neko-relay_darwin_amd64 -O /usr/bin/neko-relay
+wget https://github.com/nkeonkeo/neko-relay-land/releases/latest/download/neko-relay_linux_amd64 -O /usr/bin/neko-relay
 chmod +x /usr/bin/neko-relay
 ```
 
